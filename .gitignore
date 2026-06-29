@@ -1,0 +1,35 @@
+# Keil build outputs
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.htm
+*.sct
+*.scvd
+*.iex
+
+# Keil project files
+*.uvoptx
+*.uvprojx
+*.uvguix.*
+
+# Debug
+DebugConfig/
+
+# Build logs
+Listings/
+*.build_log.htm
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
